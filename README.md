@@ -1,3 +1,1 @@
 # git_testing
-
-# hello
